@@ -24,4 +24,8 @@ description: https://archive.ics.uci.edu/ml/datasets/Yeast
 
 data url: https://archive.ics.uci.edu/ml/machine-learning-databases/yeast/yeast.data
 
+3. Wilt data
 
+description: https://archive.ics.uci.edu/ml/datasets/Wilt
+
+data url: https://archive.ics.uci.edu/ml/machine-learning-databases/00285/wilt.zip
