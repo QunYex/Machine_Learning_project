@@ -29,3 +29,10 @@ data url: https://archive.ics.uci.edu/ml/machine-learning-databases/yeast/yeast.
 description: https://archive.ics.uci.edu/ml/datasets/Wilt
 
 data url: https://archive.ics.uci.edu/ml/machine-learning-databases/00285/wilt.zip
+
+
+### Resource
+
+---
+
+url link: https://www.jianshu.com/p/a8c0266a7ba4
