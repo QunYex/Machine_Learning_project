@@ -30,7 +30,13 @@ description: https://archive.ics.uci.edu/ml/datasets/Wilt
 
 data url: https://archive.ics.uci.edu/ml/machine-learning-databases/00285/wilt.zip
 
+4. Mushroom
 
+description: https://archive.ics.uci.edu/ml/datasets/Mushroom
+
+data url: https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.names
 ### Resource
 
 ---
