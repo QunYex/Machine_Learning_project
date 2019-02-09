@@ -1,5 +1,4 @@
-### GUIDE
----
+## GUIDE:
 
 Markdown: https://zh.wikipedia.org/zh-cn/Markdown
 
@@ -8,9 +7,8 @@ pandas doc:https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.ht
 github guides: https://guides.github.com
 
 
-### Dataset
+## Dataset:
 
----
 
 1. Parkinsons
 
@@ -41,9 +39,8 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepi
 5. Cardiotocography
 
 description: https://archive.ics.uci.edu/ml/datasets/Cardiotocography
-### Resource
+## Resource:
 
----
 
 url link: https://www.jianshu.com/p/a8c0266a7ba4
 
